@@ -25,9 +25,3 @@ cond2(yes)-cond3
 cond3(yes)-o2-e
 cond3(no)-o4-e
 ```
-
-作者：凹凸曼达人
-链接：https://www.jianshu.com/p/a51643623227
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
